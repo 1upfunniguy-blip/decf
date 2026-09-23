@@ -1,0 +1,60 @@
+{
+  "addons":{
+    "isat@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.8.2",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/isat.xpi",
+          "update_hash": "sha256:761003110283a62ccb66d5c576f5d5012949134811af6219c6709ec22ddf6e3f"
+        }
+      ]
+    },
+    "ismm@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.28.2",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi",
+          "update_hash": "sha256:84182f413086e3bddbb0a2a3845eefda80c5b5a216f9f7446e38ee772e64ca38"
+        }
+      ]
+    },
+    "urjm@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.7",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.xpi",
+          "update_hash": "sha256:50c6308baa46cda15b119e3165682312da53397ee7a39e83525115089fcc682d"
+        }
+      ]
+    },
+    "bcma2@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.3.3",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi",
+          "update_hash": "sha256:7fc11cb41357181a31aaec44bc3a6d282618f5960c594d8dda3a5cf4ef844a64"
+        }
+      ]
+    }
+  }
+}

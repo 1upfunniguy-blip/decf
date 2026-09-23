@@ -1,0 +1,209 @@
+![](../image/bookstack.jpg)
+
+
+*Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
+
+---
+
+- **Add-ons**
+  - [Block Cloudflare MITM Attack](addon/bcma.md)
+  - [Will these links block Tor user?](addon/isat.md)
+  - [Are links vulnerable to MITM attack?](addon/ismm.md)
+  - [Which website rejected me?](addon/urjm.md)
+- **Service**
+  - [Karma API](service/karma_api.md)
+  - [Ombrelo](service/ombrelo.md)
+  - [Dogs](service/dogs.md)
+  - [Public DNS](service/dns.md)
+  - [IAList](https://ialist.crimeflare.eu.org)
+  - [Alternative Link](service/altlink.md)
+  - [Local Area](https://services.crimeflare.eu.org/localarea/)
+  - [Clearnet Onion](https://clearnetonion.eu.org)
+    - [This repository as website](https://decloudflare.crimeflare.eu.org)
+  - [Crimeflare Mail](https://services.crimeflare.eu.org/mail/)
+- **Cloudflare Alternatives**
+  - [Cloudflare Alternatives](alternative/cloudflare.md)
+  - [Cloudflare DNS Alternatives](alternative/domaindns.md)
+- **Cloudflared**
+  - How many % of top most sites/domains?
+    - [How many % of top 1 million most popular domains are using Cloudflare?](cloudflared/top/cloudflare.md) _Cloudflare_
+    - [How many % of top 1 million most popular domains are using Cloudflare?](cloudflared/top/tranco.md) _Tranco_
+    - `2010`
+      - [How many % of top 1,000 most visited sites are using Cloudflare?](cloudflared/top/2010-google.md) _Google_
+    - `2014`
+      - [How many % of top 10,000 most popular domains are using Cloudflare?](cloudflared/top/2014-opendns.md) _OpenDNS_
+    - `2017`
+      - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2017-switchch.md) _SWITCH_
+    - `2018`
+      - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2018-switchch.md) _SWITCH_
+    - `2019`
+      - [How many % of top 1,000 most visited sites are using Cloudflare?](cloudflared/top/2019-alexa.md) _Alexa_
+      - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2019-switchch.md) _SWITCH_
+    - `2020`
+      - [How many % of top 100,000 WordPress sites are using Cloudflare?](cloudflared/top/2020-wordpress.md) _Wordpress_
+      - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2020-switchch.md) _SWITCH_
+    - `2021`
+      - [How many % of top 500 most popular sites are using Cloudflare?](cloudflared/top/2021-moz.md) _Moz_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2021-alexa.md) _Alexa_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2021-cisco.md) _Cisco_
+      - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2021-switchch.md) _SWITCH_
+    - `2022`
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-tranco.md) _Tranco_
+      - [How many % of top 500 most popular sites are using Cloudflare?](cloudflared/top/2022-moz.md) _Moz_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-majestic.md) _Majestic_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-alexa.md) _Alexa_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-cisco.md) _Cisco_
+      - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2022-switchch.md) _SWITCH_
+      - [How many % of top 10 million most visited sites are using Cloudflare?](cloudflared/top/2022-domcop.md) _Domcop_
+  - How many % of University and College websites are using Cloudflare?
+    - [Africa](cloudflared/collegeuniversity/africa.md)
+    - [America](cloudflared/collegeuniversity/america.md)
+    - [Asia](cloudflared/collegeuniversity/asia.md)
+    - [Europe](cloudflared/collegeuniversity/europe.md)
+    - [Oceania](cloudflared/collegeuniversity/oceania.md)
+  - `Money`
+    - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared/bitcoinexchange.md)
+    - [How many % of payment service providers are using Cloudflare?](cloudflared/paymentservices.md)
+    - How many % of banks & financial institutions are using Cloudflare?
+      - [Africa](cloudflared/financial/africa.md)
+      - [America](cloudflared/financial/america.md)
+      - [Asia](cloudflared/financial/asia.md)
+      - [Europe](cloudflared/financial/europe.md)
+      - [Oceania](cloudflared/financial/oceania.md)
+  - `Magazines, News`
+    - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
+    - [How many % of Hijacked Journal sites are using Cloudflare?](cloudflared/hijacked_journal.md)
+    - [How many % of fake news outlets are using Cloudflare?](cloudflared/fakenews.md)
+    - How many % of online newspapers are using Cloudflare?
+      - [Africa](cloudflared/newspaper/africa.md)
+      - [America / Caribbean](cloudflared/newspaper/america.md)
+      - [Asia / Middle East](cloudflared/newspaper/asia.md)
+      - [Europe](cloudflared/newspaper/europe.md)
+      - [Oceania](cloudflared/newspaper/oceania.md)
+  - `Government, Organization, Corporation`
+    - [How many % of United States Government websites are using Cloudflare?](cloudflared/government/govusa.md)
+    - [How many % of France Government websites are using Cloudflare?](cloudflared/government/govfr.md)
+    - [How many % of Open Data sites are using Cloudflare?](cloudflared/opendata.md)
+    - [How many % of breached sites (pwned sites) are using Cloudflare?](cloudflared/pwned_databreach.md)
+    - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
+    - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
+    - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md) #antivirus
+  - `Places`
+    - [How many % of places in each cities are using Cloudflare?](cloudflared/city_place.md)
+    - [How many % of insurance companies are using Cloudflare?](cloudflared/insurance.md)
+    - [How many % of Hospitals are using Cloudflare?](cloudflared/hospital.md)
+    - [How many % of Pharmaceutical companies are using Cloudflare?](cloudflared/pharmaceutical.md)
+    - [How many % of Energy cooperatives are using Cloudflare?](cloudflared/energy_cooperatives.md) #Power #Electricity
+    - [How many % of fast food restaurants are using Cloudflare?](cloudflared/fastfood.md)
+  - `Mail, Chat, Social`
+    - [How many % of disposable email domains are using Cloudflare?](cloudflared/disposable_email.md)
+    - [How many % of email (email exchanged between Gmail) domains are using Cloudflare?](cloudflared/gmail_email_domains.md)
+    - [How many % of XMPP domains are using Cloudflare?](cloudflared/social/xmpp_domains.md)
+    - [How many % of public social media are using Cloudflare?](cloudflared/social/socialmedia.md)
+    - [How many % of public Fediverse services are using Cloudflare?](cloudflared/social/fediverse.md)
+      - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/social/shared_mastodon.md)
+    - [How many % of public Matrix services are using Cloudflare?](cloudflared/social/matrix.md)
+    - [How many % of domains listed on Webring are using Cloudflare?](cloudflared/social/webring.md)
+    - [How many % of links people publicly shared on IRC are using Cloudflare?](cloudflared/social/irc_share_url.md)
+    - [How many % of URLs cited in X community notes are using Cloudflare?](cloudflared/social/xcomnotes.md)
+  - `Software, Public API`
+    - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
+    - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
+    - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
+    - [How many % of WHOIS services are using Cloudflare?](cloudflared/whois.md)
+    - [How many % of DNS-over-HTTPS (DoH) are using Cloudflare?](cloudflared/dns-over-https.md)
+  - `Service`
+    - [How many % of public Git services are using Cloudflare?](cloudflared/service/gitservices.md)
+    - [How many % of public Torrent services are using Cloudflare?](cloudflared/service/torrents.md)
+    - [How many % of online video platforms are using Cloudflare?](cloudflared/service/videoplatform.md)
+    - [How many % of File hosting / File sharing services are using Cloudflare?](cloudflared/service/filehosting.md)
+    - [How many % of VPN services are using Cloudflare?](cloudflared/service/vpnservice.md)
+    - [How many % of Domain name registrars are using Cloudflare?](cloudflared/service/domain_registrars.md)
+    - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared/service/hostingprovider.md)
+    - [How many % of Search engines are using Cloudflare?](cloudflared/service/searchengines.md)
+  - `Domain type`
+    - [How many % of adverts and trackers are using Cloudflare?](cloudflared/adverts.md)
+    - [How many % of pornographic domains are using Cloudflare?](cloudflared/pornography.md)
+    - [How many % of gambling domains are using Cloudflare?](cloudflared/gambling.md)
+    - [How many % of phishing domains are using Cloudflare?](cloudflared/phishing.md)
+    - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
+    - [How many % of URL Shortener services are using Cloudflare?](cloudflared/urlshortening.md)
+    - [How many % of domains listed in DNS filter/blocklists are using Cloudflare?](cloudflared/blocklists.md)
+  - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
+  - [How many % of domains listed in Netzsperren Liwest are using Cloudflare?](subfiles/cloudflared/netzsperren_liwest.md)
+- **Name Servers on the Internet**
+  - `2021`
+    - [September](nameservers/2021-09.md)
+    - [December](nameservers/2021-12.md)
+  - `2022`
+    - [February](nameservers/2022-02.md)
+    - [March](nameservers/2022-03.md)
+    - [April](nameservers/2022-04.md)
+    - [May](nameservers/2022-05.md)
+    - [June](nameservers/2022-06.md)
+    - [July](nameservers/2022-07.md)
+    - [August](nameservers/2022-08.md)
+    - [September](nameservers/2022-09.md)
+    - [October](nameservers/2022-10.md)
+    - [November](nameservers/2022-11.md)
+    - [December](nameservers/2022-12.md)
+  - `2023`
+    - [January](nameservers/2023-01.md)
+    - [February](nameservers/2023-02.md)
+    - [March](nameservers/2023-03.md)
+    - [April](nameservers/2023-04.md)
+    - [June](nameservers/2023-06.md)
+    - [July](nameservers/2023-07.md)
+    - [August](nameservers/2023-08.md)
+    - [September](nameservers/2023-09.md)
+    - [October](nameservers/2023-10.md)
+- **Cloudflare attracts "repeat infringers"**
+  - classics: [CloudFlare attracts "repeat infringers"](classics/repeats.md)
+  - `2021`
+    - [June](repeat_infringers/2021-06.md)
+  - `2022`
+    - [January](repeat_infringers/2022-01.md)
+    - [February](repeat_infringers/2022-02.md)
+    - [March](repeat_infringers/2022-03.md)
+    - [April](repeat_infringers/2022-04.md)
+    - [May](repeat_infringers/2022-05.md)
+    - [June](repeat_infringers/2022-06.md)
+    - [July](repeat_infringers/2022-07.md)
+    - [August](repeat_infringers/2022-08.md)
+    - [September](repeat_infringers/2022-09.md)
+    - [October](repeat_infringers/2022-10.md)
+    - [November](repeat_infringers/2022-11.md)
+    - [December](repeat_infringers/2022-12.md)
+  - `2023`
+    - [January](repeat_infringers/2023-01.md)
+    - [February](repeat_infringers/2023-02.md)
+    - [March](repeat_infringers/2023-03.md)
+    - [April](repeat_infringers/2023-04.md)
+    - [June](repeat_infringers/2023-06.md)
+    - [July](repeat_infringers/2023-07.md)
+    - [August](repeat_infringers/2023-08.md)
+    - [September](repeat_infringers/2023-09.md)
+    - [October](repeat_infringers/2023-10.md)
+    - [November](repeat_infringers/2023-11.md)
+    - [December](repeat_infringers/2023-12.md)
+- **Shared on**
+  - [Shared on Twitter](shared_on_twitter.md)
+  - [Shared on Mastodon](shared_on_mastodon.md)
+- **How to Block Cloudflare**
+  - [with DNS](block_cloudflare_with/dns.md)
+  - [with Firewall](block_cloudflare_with/firewall.md)
+  - [with Proxy](block_cloudflare_with/proxy.md)
+  - [on Android](block_cloudflare_with/android.md)
+  - [on Fediverse](block_cloudflare_with/fediverse.md)
+- [PEOPLE.md](../PEOPLE.md)
+  - [Twitter](people/twitter.md)
+  - [Mastodon](people/mastodon.md)
+- [CloudFlare Watch](classics/README.md)
+- [Change default DNS provider of Firefox](change-firefox-dns.md)
+- [How to use Chromium with Tor](chromium_tor.md)
+- [Myth Catalog](myth_catalog.md)
+- [The trouble with Codeberg](the_trouble_with_codeberg.md)
+
+---
+
+![](../image/watcloudflare.jpg)
